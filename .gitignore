@@ -1,0 +1,26 @@
+venv/
+env/
+ENV/
+.venv/
+**/__pycache__/
+*.py[cod]
+*$py.class
+# SQLite database file used in the tutorial
+app.db
+
+# General database files
+*.db
+*.sqlite
+*.sqlite3
+babel.cfg
+messages.pot
+instance
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv/
